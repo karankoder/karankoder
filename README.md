@@ -13,6 +13,8 @@
 
 - 💻 Passionate about web development, competitive programming, and blockchain technology.
 
+- 📫 Feel free to reach out to me for any collaboration or just a friendly chat at [mkaran4249@gmail.com](mailto:mkaran4249@gmail.com). I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/karan-iitbhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-iitbhu" height="30" width="40" /></a>
