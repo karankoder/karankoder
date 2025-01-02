@@ -16,31 +16,35 @@
 - 📫 Feel free to reach out to me for any collaboration or just a friendly chat at [mkaran4249@gmail.com](mailto:mkaran4249@gmail.com). I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
 <h3 align="left">Connect with me:</h3>
-<div align="left" style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px; display: flex; flex-wrap: wrap; gap: 20px; background-color: #f0f0f0;">
-  <a href="https://linkedin.com/in/karan-iitbhu" target="blank" style="text-decoration: none; color: inherit; transition: transform 0.3s;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-iitbhu" height="30" width="40" />
-      <span>LinkedIn</span>
-    </div>
-  </a>
-  <a href="https://www.codechef.com/users/karan_iit_bhu" target="blank" style="text-decoration: none; color: inherit; transition: transform 0.3s;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karan_iit_bhu" height="30" width="40" />
-      <span>CodeChef</span>
-    </div>
-  </a>
-  <a href="https://codeforces.com/profile/karan_k_d" target="blank" style="text-decoration: none; color: inherit; transition: transform 0.3s;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karan_k_d" height="30" width="40" />
-      <span>Codeforces</span>
-    </div>
-  </a>
-  <a href="https://discord.gg/karankoder" target="blank" style="text-decoration: none; color: inherit; transition: transform 0.3s;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karankoder" height="30" width="40" />
-      <span>Discord</span>
-    </div>
-  </a>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/karan-iitbhu" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-iitbhu" height="30" width="40" />
+          LinkedIn
+        </a>
+      </td>
+      <td>
+        <a href="https://www.codechef.com/users/karan_iit_bhu" target="blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karan_iit_bhu" height="30" width="40" />
+          CodeChef
+        </a>
+      </td>
+      <td>
+        <a href="https://codeforces.com/profile/karan_k_d" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karan_k_d" height="30" width="40" />
+          Codeforces
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/karankoder" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karankoder" height="30" width="40" />
+          Discord
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <style>
