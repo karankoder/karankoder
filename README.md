@@ -47,11 +47,6 @@
   </table>
 </div>
 
-<style>
-  a:hover {
-    transform: scale(1.05);
-  }
-</style>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
