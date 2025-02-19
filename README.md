@@ -1,9 +1,7 @@
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" alt="Typing SVG">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" alt="Typing SVG" data-dark-mode="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;">
 </h1>
+
 
 <h3 align="center">Turning Ideas into Code | Web Developer | Blockchain Enthusiast | Competitive Programmer</h3>
 
