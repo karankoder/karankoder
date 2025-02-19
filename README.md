@@ -1,9 +1,11 @@
 <h1 align="center">
-  <picture>
-    <source srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" media="(prefers-color-scheme: dark)">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" alt="Typing SVG">
-  </picture>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" 
+    alt="Typing SVG" 
+    data-dark-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;"
+  />
 </h1>
+
 
 
 
