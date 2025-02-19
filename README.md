@@ -1,19 +1,20 @@
 <h1 align="center">
   <picture>
     <source 
-      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Karan+Kumar+Das;" 
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" 
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Karan+Kumar+Das;" 
       media="(prefers-color-scheme: light)"
     />
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=👋+Hi+there,+I'm+Karan+Kumar+Das;" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Karan+Kumar+Das;" 
       alt="Typing SVG"
     />
   </picture>
 </h1>
+
 
 
 
